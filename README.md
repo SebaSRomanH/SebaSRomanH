@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sebastián Román
 
-<!--
-**SebaSRomanH/SebaSRomanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Estadístico con experiencia en analítica avanzada, inteligencia comercial, IA aplicada y crecimiento digital en banca.
 
-Here are some ideas to get you started:
+Actualmente curso un Magíster en Inteligencia Artificial y estoy desarrollando proyectos aplicados en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Growth Analytics
+- Customer Journey Intelligence
+- Lead Scoring
+- Generative AI
+- RAG & AI Assistants
+- Banking Analytics
+
+## Featured Projects
+
+WIP
