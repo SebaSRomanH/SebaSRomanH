@@ -4,13 +4,9 @@ Ingeniero Estadístico con experiencia en analítica avanzada, inteligencia come
 
 Actualmente curso un Magíster en Inteligencia Artificial y estoy desarrollando proyectos aplicados en:
 
-- Growth Analytics
-- Customer Journey Intelligence
-- Lead Scoring
-- Generative AI
-- RAG & AI Assistants
-- Banking Analytics
-
+- NBA Analytics
+- Productivity Agents
+- descriptive analytics & StoryTelling
 ## Featured Projects
 
 WIP
