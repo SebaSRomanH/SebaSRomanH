@@ -43,20 +43,6 @@ Actualmente curso un Magíster en Inteligencia Artificial y estoy enfocado en el
 - CRM Analytics
 - Digital Channels Optimization
 
-## Proyectos Destacados
-
-### Growth Analytics Lab
-Análisis de funnels, retención, activación y experimentación para identificar oportunidades de crecimiento basadas en datos.
-
-### Lead Scoring AI
-Modelos predictivos para priorización de clientes y optimización de conversión comercial.
-
-### AI Banking Assistant
-Asistente inteligente para consultas financieras utilizando modelos de lenguaje y recuperación de información.
-
-### Customer Journey Intelligence
-Análisis y optimización de experiencias digitales mediante comportamiento de clientes y eventos transaccionales.
-
 ## Formación
 
 - Magíster en Inteligencia Artificial — Universidad Adolfo Ibáñez (en curso)
