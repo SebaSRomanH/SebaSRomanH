@@ -1,4 +1,4 @@
-# Sebastián Román
+# Sebastián Tomás Román Henríquez
 
 Ingeniero Estadístico | AI & Analytics | Growth & Digital Transformation
 
