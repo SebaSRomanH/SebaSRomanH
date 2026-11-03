@@ -11,6 +11,7 @@ Actualmente curso un Magíster en Inteligencia Artificial y estoy enfocado en el
 - Inteligencia Artificial Generativa
 - Agentic AI y asistentes inteligentes
 - Growth Analytics
+- Robótica
 - Customer Journey Analytics
 - Machine Learning aplicado al negocio
 - Personalización y CRM
