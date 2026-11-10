@@ -1,4 +1,4 @@
-# Sebastián Tomás Román Henríquez
+<img width="1536" height="1024" alt="Symula" src="https://github.com/user-attachments/assets/9bbb7ba7-f858-484c-a0b9-0797fe7f724a" /># Sebastián Tomás Román Henríquez
 
 Ingeniero Estadístico | AI & Analytics | Growth & Digital Transformation
 
@@ -11,45 +11,21 @@ Actualmente curso un Magíster en Inteligencia Artificial y estoy enfocado en el
 - Inteligencia Artificial Generativa
 - Agentic AI y asistentes inteligentes
 - Growth Analytics
-- Robótica
 - Customer Journey Analytics
-- Machine Learning aplicado al negocio
 - Personalización y CRM
 - Product Analytics
 - Experimentación y A/B Testing
-- Estrategia basada en datos
-
-## Tecnologías
-
-**Data & Analytics**
-- Python
-- SQL
-- Pandas
-- Scikit-Learn
-- Databricks
-- Power BI
-
-**AI & Machine Learning**
-- Generative AI
-- NLP
-- Predictive Modeling
-- Classification Models
-- Segmentation
-- Recommendation Systems
-
-**Growth & Customer Experience**
-- Salesforce Marketing Cloud
-- Customer Journeys
-- Funnel Analytics
-- CRM Analytics
-- Digital Channels Optimization
+- Machine Learning
+- Robótica
+- Ciencias en General
 
 ## Formación
-
 - Magíster en Inteligencia Artificial — Universidad Adolfo Ibáñez (en curso)
 - Ingeniero Estadístico — Universidad de Santiago de Chile
 - MIT Professional Education — AI Product Design
 - MIT Professional Education — Digital Transformation
+- Business Intelligence - Universidad de Chile
+- Marketing Digital - Pontificia universidad Católica
 
 ## Contacto
 
