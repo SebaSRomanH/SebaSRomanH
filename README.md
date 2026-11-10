@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Symula" src="https://github.com/user-attachments/assets/9bbb7ba7-f858-484c-a0b9-0797fe7f724a" /># Sebastián Tomás Román Henríquez
+# Sebastián Tomás Román Henríquez
 
 Ingeniero Estadístico | AI & Analytics | Growth & Digital Transformation
 
